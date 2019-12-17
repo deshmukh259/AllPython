@@ -42,10 +42,12 @@ class Calcution(Data):
         return self.a * self.b * self.c
 
 
+
 if __name__ == "__main__":
     print ("Employee.__doc__:", Calcution.__doc__)
     print ("Employee.__name__:", Calcution.__name__)
     print ("Employee.__module__:", Calcution.__module__)
     print ("Employee.__bases__:", Calcution.__bases__)
     print ("Employee.__dict__:", Calcution.__dict__)
+
 

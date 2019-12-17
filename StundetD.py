@@ -36,7 +36,8 @@ class StudentFile:
             ll = []
             print("LL")
             with open("C:/clone/PyD.txt") as f:
-                for l in f:
+
+
                     print(l)
                     l = l.replace("'", "\"")
                     d = json.loads(l)

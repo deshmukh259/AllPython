@@ -1,6 +1,7 @@
 from StundetD import Student, StudentOp
 
 
+import os.path
 
 def test_add():
     s = Student(1, "A")
@@ -11,4 +12,7 @@ def test_add():
 def test_fetch_all():
     so = StudentOp()
     assert type(so.fetch_all()) == type([])
+
+def test_getssh(monkeypatch):
+    monkeypatch.setattr("StudentD.StudentFile",Mock())
 

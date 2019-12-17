@@ -1,0 +1,6 @@
+
+gpython:S100"KRename method "setA" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ƒõËˆøÿÿÿÿ
+apython:S100"KRename method "setB" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(†ë†
+bpython:S100"KRename method "setC" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ë¬ì
+cpython:S100"MRename method "setABC" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ŒÖ›!
+_python:S100"HRename method "v" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(í‹Ñ×

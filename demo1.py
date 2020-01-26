@@ -28,7 +28,7 @@ def fun1(a):
     print(ee[1])
     print(ee[0])
     print(ee[0])
-    x = print("x")
+    print("x")
     print(type(x))
     # print(x + 4)
 

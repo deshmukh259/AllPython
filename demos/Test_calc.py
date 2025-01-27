@@ -7,7 +7,7 @@ class Test_calc(unittest.TestCase):
 
     def test_mul(self):
         print("test_mul")
-        c = classCalc.Calcution(2,2,2)
+        c = classCalc.Calcution(2, 2, 2)
 
         self.assertEqual(c.mul(),8)
 

@@ -39,4 +39,5 @@ class reptile_animal(animal):
 
 if __name__ == "__main__":
     v = fly_animal()
+    v.fly_avg_speed()
 
